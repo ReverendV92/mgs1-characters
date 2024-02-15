@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Player/lordvipes/Metal_Gear_Rising/GrayFox/Gray_Fox_Body_D2_C1"
+	"$bumpmap" "models/Player/lordvipes/Metal_Gear_Rising/GrayFox/Gray_Fox_Body_N"
+	"$model" "1"
+
+	"$envmap" "models/Player/lordvipes/Metal_Gear_Rising/GrayFox/gray_fox_body_envmap"
+	"$envmaptint" "[ .5 .5 .7 ]"
+	"$envmapsaturation" ".01"
+	"$envmapcontrast" "0.1"
+ 	"$envmapFresnel" "1"
+
+	"$phong" "1"
+	"$phongexponent" 20
+	"$phongboost" "1.5"
+	"$phongfresnelranges"	"[ .53 .72 20]"
+						
+	"$rimlightexponent" "255"				
+	"$rimlightboost" ".3"
+	"$rimmask" "1"
+$halflambert 1
+$nocull 1
+
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

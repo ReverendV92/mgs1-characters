@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Player/lordvipes/Metal_Gear_Rising/GrayFox/Gray_Fox_Head_D"
+	"$bumpmap" "models/Player/lordvipes/Metal_Gear_Rising/GrayFox/Gray_Fox_Head_N"
+	"$model" "1"
+
+	"$envmap" "models/Player/lordvipes/Metal_Gear_Rising/GrayFox/gray_fox_head_envmap"
+	"$envmaptint" "[ .5 .5 .7 ]"
+	"$envmapsaturation" ".01"
+	"$envmapcontrast" "0.1"
+ 	"$envmapFresnel" "1"
+
+	"$phong" "1"
+	"$phongexponent" 20
+	"$phongboost" "1.5"
+	"$phongfresnelranges"	"[ .53 .72 20]"
+
+	"$detail" "models/Player/lordvipes/Metal_Gear_Rising/GrayFox/Gray_Fox_Head_G"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "5"
+						
+	"$rimlightexponent" "255"				
+	"$rimlightboost" ".3"
+	"$rimmask" "1"
+
+$halflambert 1
+$nocull 1
+
+}

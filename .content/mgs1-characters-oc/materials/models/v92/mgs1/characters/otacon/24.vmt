@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+	$basetexture models/v92/mgs1/characters/otacon/00218a
+
+	$halflambert 1
+
+}
