@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+
+	$basetexture models/v92/mgs1/characters/snake/sna_chest3
+
+	$halflambert 1
+	$surfaceprop flesh
+
+}

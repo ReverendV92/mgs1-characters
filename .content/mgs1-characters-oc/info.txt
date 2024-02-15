@@ -1,0 +1,23 @@
+
+Info
+{
+
+	"name"				"MGS1 Characters"
+	"description"		"Metal Gear Solid characters for Obsidian Conflict"
+
+	"version"			"2024-02-15"
+	"created"			"2024-02-15"
+	"modified"			"2024-02-15"
+
+	"creator"
+	{
+
+		"name"			"V92"
+		"contact"		"Steam"
+		"url"			"https://steamcommunity.com/profiles/76561197998218505"
+
+	}
+
+	"override"			false
+
+}
