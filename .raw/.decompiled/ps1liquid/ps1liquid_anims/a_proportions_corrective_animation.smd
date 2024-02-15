@@ -1,0 +1,32 @@
+// Created by Crowbar 0.74
+version 1
+nodes
+  0 "ValveBiped.Bip01_Pelvis" -1
+  1 "ValveBiped.Bip01_Spine" 0
+  2 "ValveBiped.Bip01_Spine1" 1
+  3 "ValveBiped.Bip01_Spine2" 2
+  4 "ValveBiped.Bip01_Spine4" 3
+  5 "ValveBiped.Bip01_Neck1" 4
+  6 "ValveBiped.Bip01_Head1" 5
+  7 "ValveBiped.Bip01_L_Clavicle" 4
+  8 "ValveBiped.Bip01_L_UpperArm" 7
+  9 "ValveBiped.Bip01_L_Forearm" 8
+  10 "ValveBiped.Bip01_L_Hand" 9
+  11 "ValveBiped.Anim_Attachment_LH" 10
+  12 "ValveBiped.Bip01_R_Clavicle" 4
+  13 "ValveBiped.Bip01_R_UpperArm" 12
+  14 "ValveBiped.Bip01_R_Forearm" 13
+  15 "ValveBiped.Bip01_R_Hand" 14
+  16 "ValveBiped.Anim_Attachment_RH" 15
+  17 "ValveBiped.Bip01_R_Thigh" 0
+  18 "ValveBiped.Bip01_R_Calf" 17
+  19 "ValveBiped.Bip01_R_Foot" 18
+  20 "ValveBiped.Bip01_L_Thigh" 0
+  21 "ValveBiped.Bip01_L_Calf" 20
+  22 "ValveBiped.Bip01_L_Foot" 21
+  23 "ValveBiped.forward" 6
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 0.000000 0.000000 0.000000 -1.570796
+end

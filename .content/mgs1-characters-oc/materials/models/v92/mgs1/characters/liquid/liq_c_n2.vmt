@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+    $basetexture models/v92/mgs1/characters/liquid/liq_c_n2
+    $surfaceprop flesh
+}

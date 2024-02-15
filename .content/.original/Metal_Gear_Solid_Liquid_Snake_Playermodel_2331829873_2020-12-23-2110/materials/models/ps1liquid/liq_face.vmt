@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "models\ps1liquid/liq_face"
+    "$surfaceprop" "flesh"
+}

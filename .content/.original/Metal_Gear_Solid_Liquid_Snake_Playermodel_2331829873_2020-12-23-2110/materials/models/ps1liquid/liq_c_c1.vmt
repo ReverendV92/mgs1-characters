@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/ps1liquid/liq_c_c1"
+    "$surfaceprop" "flesh"
+}

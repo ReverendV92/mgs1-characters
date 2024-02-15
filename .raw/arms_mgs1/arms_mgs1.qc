@@ -6,11 +6,13 @@ $bodygroup "Hands"
 	studio hands_snake
 	studio hands_snake_tux
 	studio hands_genome
+	studio hands_liquid
 }
 
 $cdmaterials models/v92/mgs1/characters/snake
 $cdmaterials models/v92/mgs1/characters/snake_tuxedo
 $cdmaterials models/v92/mgs1/characters/genome
+$cdmaterials models/v92/mgs1/characters/liquid
 
 $includemodel weapons/c_arms_animations.mdl
 
