@@ -1,5 +1,5 @@
 
-$modelname v92/mgs1/chracters/snake
+$modelname v92/mgs1/characters/snake
 
 $bodygroup "Outfit"
 {

@@ -1,5 +1,5 @@
 
-$modelname v92/mgs1/chracters/liquid
+$modelname v92/mgs1/characters/liquid
 
 $bodygroup "Outfit"
 {
@@ -8,7 +8,4 @@ $bodygroup "Outfit"
 
 $include liquid_common.qci
 
-$includemodel player/male_shared.mdl
-$includemodel player/male_ss.mdl
-$includemodel player/male_gestures.mdl
-$includemodel player/male_postures.mdl
+$includemodel m_anm.mdl

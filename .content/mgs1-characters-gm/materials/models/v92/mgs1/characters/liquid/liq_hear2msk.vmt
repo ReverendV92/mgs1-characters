@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+    $basetexture models/v92/mgs1/characters/liquid/liq_hear2msk
+    $surfaceprop flesh
+    $alphatest 1
+}

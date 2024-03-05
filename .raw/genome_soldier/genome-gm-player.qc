@@ -1,5 +1,5 @@
 
-$modelname v92/mgs1/chracters/genome
+$modelname v92/mgs1/characters/genome
 
 $bodygroup "Outfit"
 {

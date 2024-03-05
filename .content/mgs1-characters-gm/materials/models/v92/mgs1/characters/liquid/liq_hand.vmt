@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+    $basetexture models/v92/mgs1/characters/liquid/liq_hand
+    $surfaceprop flesh
+}
